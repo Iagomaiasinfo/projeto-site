@@ -9,11 +9,37 @@ body {
 
 main {
     background-color: rgb(201, 201, 201);
-    width: 500px;
+    width: 570px;
     margin: auto;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.416);
 }
 
 img.lado {
     float: right;
+}
+
+h1 {
+    font-size: 2em;
+    color:rgb(37, 0, 137);
+}
+
+h2 {
+    font-size: 1.5em;
+    color:rgb(37, 0, 137);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color:rgb(37, 0, 137);
+}
+
+a:hover {
+    text-decoration: underline;
+    color:rgb(37, 0, 137);
 }
